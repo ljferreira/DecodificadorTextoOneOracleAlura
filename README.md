@@ -6,8 +6,8 @@ O texto criptografado é exibido em uma outra área de criptografia e descriptog
 Seguindo o desafio, o usuário poderá colar o texto copiado na área anterior para a primeira área, e selecionar o botão descriptografar para obter o texto agora 
 descriptografado, ou o botão criptografar para criptografá-lo em um nível mais profundo, ou seja criptografar novamente o que já está criptografado. Após esta ação, o resultado é exibido na área destinada ao produto da criptografia ou descriptografia, localizada a direita ou abaixo da tela do usuário, conforme o dispositivo utilizado.<br><br>
 Telas relacionadas a dispositivos respectivos:<br><br>
-Tela para desktop<br><img src="https://github.com/ljferreira/DecodificadorTextoOneOracleAlura/blob/main/Tela_Desktop_normal.png"/><br>
-Tela reduzida de desktop<br><img src="https://github.com/ljferreira/DecodificadorTextoOneOracleAlura/blob/main/Tela_Desktop_reduzida.png"/><br>
+Tela para desktop ou notebook<br><img src="https://github.com/ljferreira/DecodificadorTextoOneOracleAlura/blob/main/Tela_Desktop_normal.png"/><br>
+Tela reduzida de desktop ou notebook<br><img src="https://github.com/ljferreira/DecodificadorTextoOneOracleAlura/blob/main/Tela_Desktop_reduzida.png"/><br>
 Tela para tablet<br><img src="https://github.com/ljferreira/DecodificadorTextoOneOracleAlura/blob/main/Tela_Tablet.png"/><br>
 Tela para smartphone<br><img src="https://github.com/ljferreira/DecodificadorTextoOneOracleAlura/blob/main/Tela_SmartPhone.png"/><br>
 <br>
