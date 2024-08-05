@@ -12,4 +12,8 @@ Tela para tablet<br><img src="https://github.com/ljferreira/DecodificadorTextoOn
 Tela para smartphone<br><img src="https://github.com/ljferreira/DecodificadorTextoOneOracleAlura/blob/main/Tela_SmartPhone.png"/><br>
 <br>
 Tecnologias utilizadas:<br>
-HTML - CSS - Javascript
+HTML - CSS - Javascript<br><br>
+Autor<br>
+
+| <img loading="lazy" src="https://avatars.githubusercontent.com/u/86416431?v=4" width=115><br><sub>Luciano J. Ferreira</sub>|
+| :---: |
