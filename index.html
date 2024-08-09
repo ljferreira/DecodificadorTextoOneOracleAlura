@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <title>Decodificador de Texto</title>
+        <link rel="stylesheet" href="styles/style.css"/>
+    </head>
+    <body onload="principal()">
+        <div class="conteudo">
+            <header>
+                <img src="assets/logoAlura.svg" alt="Logo da Alura"/>
+            </header>
+            <main> 
+                <section class="cripDescrip">
+                    <textarea id="txtAreaCxEntradaCripDescr" oninput="validaMsg()" placeholder="Digite seu texto"></textarea>
+                    <div class="cripDescripAviso"> 
+                        <img src="assets/iconeAviso.svg" width="16" height="16" alt="Icone de aviso" />
+                        <h6>Apenas letras minúsculas e sem acento.</h6>
+                    </div>
+                    <div class="botoesCripDescr">
+                        <button  class="btnCriptografar" onclick="principal('criptografar')">Criptografar</button>
+                        <button class="btnDescriptografar" onclick="principal('descriptografar')">Descriptografar</button>
+                    </div>
+                </section>
+                
+                
+            </main>
+            <section class="resultCripDescrip"> 
+                <textarea id="txtAreaCxResultCripDescr" readonly></textarea>
+                <img id="imgCxResultCripDescr" src="assets/meninaPesquisa.svg" width="336" height="304" alt="Imagem de menina pesquisando com uma lupa"/>
+                <h1 id="tituloCxResultCripDescr">Nenhuma mensagem encontrada</h1>
+                <p id="paragCxResultCripDescr">Digite um texto que você deseja criptografar ou descriptografar.</p>
+                <button id="btnCopiarAreaCxResultCripDescr" class="btnCopiar" onclick="principal('copiarClipboard')">Copiar</button>
+            </section>
+            <footer><h6>Desenvolvido por Luciano Ferreira - julho de 2024</h6></footer>
+        </div>
+        <script src="scripts/app.js"></script>
+    </body>
+</html>
